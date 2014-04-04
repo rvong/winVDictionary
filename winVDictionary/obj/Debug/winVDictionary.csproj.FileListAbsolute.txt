@@ -1,0 +1,9 @@
+c:\users\rich\documents\visual studio 2012\Projects\winVDictionary\winVDictionary\bin\Debug\winVDictionary.exe.config
+c:\users\rich\documents\visual studio 2012\Projects\winVDictionary\winVDictionary\bin\Debug\winVDictionary.exe
+c:\users\rich\documents\visual studio 2012\Projects\winVDictionary\winVDictionary\bin\Debug\winVDictionary.pdb
+c:\users\rich\documents\visual studio 2012\Projects\winVDictionary\winVDictionary\obj\Debug\winVDictionary.csprojResolveAssemblyReference.cache
+c:\users\rich\documents\visual studio 2012\Projects\winVDictionary\winVDictionary\obj\Debug\winVDictionary.Form1.resources
+c:\users\rich\documents\visual studio 2012\Projects\winVDictionary\winVDictionary\obj\Debug\winVDictionary.Properties.Resources.resources
+c:\users\rich\documents\visual studio 2012\Projects\winVDictionary\winVDictionary\obj\Debug\winVDictionary.csproj.GenerateResource.Cache
+c:\users\rich\documents\visual studio 2012\Projects\winVDictionary\winVDictionary\obj\Debug\winVDictionary.exe
+c:\users\rich\documents\visual studio 2012\Projects\winVDictionary\winVDictionary\obj\Debug\winVDictionary.pdb

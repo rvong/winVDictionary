@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winVDictionary", "winVDictionary\winVDictionary.csproj", "{F2365E79-3471-4491-B6BC-284F74450D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2365E79-3471-4491-B6BC-284F74450D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2365E79-3471-4491-B6BC-284F74450D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2365E79-3471-4491-B6BC-284F74450D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2365E79-3471-4491-B6BC-284F74450D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
